@@ -1,0 +1,7 @@
+*.png
+*.docx
+*.html
+*.exe
+Application/
+output/
+icon/
